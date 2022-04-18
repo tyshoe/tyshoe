@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyshoe
-- 🌱 I’m currently learning c++, c# and python
+- 🌱 I’m currently working with c, c++, c#, visual basic, java, asl and python
 - 📫 How to reach me tysh#4541 on discord
 - I'm still really new to github so any help is appreciated.  I thought it would be cool to upload all of my projects that might be useful.
 
